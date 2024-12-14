@@ -1,0 +1,5 @@
+/home/samy/clion-2024.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DCMAKE_MAKE_PROGRAM=/home/samy/clion-2024.1.1/bin/ninja/linux/x64/ninja -G Ninja -S /home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion -B /home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo
+-- Building for Linux
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo

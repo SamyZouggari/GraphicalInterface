@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/hello_world.dir/tests/hello_world.c.o -o hello_world   -L/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/_x11  -Wl,-rpath,/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/_x11 -lei -leibase -lfreeimage -lSDL2 -lSDL2_ttf -lSDL2_gfx -lm

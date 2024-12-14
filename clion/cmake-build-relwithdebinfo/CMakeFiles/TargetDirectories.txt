@@ -1,0 +1,15 @@
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/ei.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/minimal.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/frame.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/button.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/hello_world.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/entry.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/puzzle.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/two048.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/minesweeper.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/ext_testclass.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/ext_testgm.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/parsing.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/doc.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/edit_cache.dir
+/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/clion/cmake-build-relwithdebinfo/CMakeFiles/rebuild_cache.dir

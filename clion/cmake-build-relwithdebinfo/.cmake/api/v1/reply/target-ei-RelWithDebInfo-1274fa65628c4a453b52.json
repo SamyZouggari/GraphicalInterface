@@ -1,0 +1,243 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "libei.a"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 91,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 64,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-O2 -g -DNDEBUG -fdiagnostics-color=always"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/api"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/usr/include/SDL2"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		}
+	],
+	"id" : "ei::@6890427a1f51a3e7e1df",
+	"name" : "ei",
+	"nameOnDisk" : "libei.a",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_application.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_dessin_relief.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_draw.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_draw_widget.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_im_draw.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_anchor.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_callback.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_entry.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_event.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_geometrymanager.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_parser.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_placer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_types.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_utils.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_widget.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_widgetclass.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_widget_attributes.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "/home/samy/projetc-2/projet_c_ig_3.1.1/projet_c_ig_3.1.1/implem/ei_widget_configure.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

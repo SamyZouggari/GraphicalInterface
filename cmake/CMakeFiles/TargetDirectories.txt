@@ -1,0 +1,14 @@
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/minimal.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/frame.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/button.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/hello_world.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/entry.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/puzzle.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/two048.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/minesweeper.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/ext_testclass.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/ext_testgm.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/parsing.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/doc.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/edit_cache.dir
+/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/cmake/CMakeFiles/rebuild_cache.dir

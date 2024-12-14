@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ext_testclass.dir/tests/ext_testclass.c.o -o ext_testclass   -L/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/_x11  -Wl,-rpath,/home/zivkovil/1A/C/projet_C/projetc/projet_c_ig_3.1.1/projet_c_ig_3.1.1/_x11 -ltestclass -lei -leibase -lfreeimage -lSDL2 -lSDL2_ttf -lSDL2_gfx -lm
