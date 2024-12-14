@@ -83,7 +83,6 @@ This repository contains the implementation of a graphical interface framework w
 ## How to Use
 
 You need to install clion to compile and run this project. There is no Makefile.
-Not all the tests run well ...
 
 ---
 
@@ -97,20 +96,6 @@ Not all the tests run well ...
 
 - **Minesweeper**:
   A fully functional Minesweeper game built with the framework.
-
----
-
-## Contribution
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests to improve the framework or add new features.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
 
 ## Contribution to the project
 
